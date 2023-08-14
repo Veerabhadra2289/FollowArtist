@@ -1,4 +1,5 @@
 # followartist
+![Screenshot 2023-08-14 at 5 46 54 PM](https://github.com/Veerabhadra2289/FollowArtist/assets/142008879/a127b275-3da4-440f-b682-9fca7face376)
 
 A new Flutter project.
 
